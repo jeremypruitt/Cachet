@@ -7,7 +7,7 @@ return [
     // Incidents
     'incidents' => [
         'incidents'                => "Ghaṭanā'ēṁ",
-        'logged'                   => '{0} No hay incidencias, ¡buen trabajo!|Has registrado una incidencia.|Has reportado <strong>:count</strong> incidencias.',
+        'logged'                   => "{0} Kō'ī ghaṭanā'ōṁ, acchā kāma kara rahē haiṁ.|Āpa ēka ghaṭanā lŏga ina kiyā hai.|Āpa kō sūcita kiyā hai <strong>:count</strong> Ghaṭanā'ēṁ.",
         'incident-create-template' => "Ṭēmpalēṭa banā'ēm",
         'incident-templates'       => 'Hādasā ṭēmpalēṭsa',
         'add'                      => [
