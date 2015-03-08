@@ -6,7 +6,7 @@ return [
 
     // Incidents
     'incidents' => [
-        'incidents'                => 'Ghaṭanā'ēṁ',
+        'incidents'                => "Ghaṭanā'ēṁ",
         'logged'                   => '{0} No hay incidencias, ¡buen trabajo!|Has registrado una incidencia.|Has reportado <strong>:count</strong> incidencias.',
         'incident-create-template' => 'Crear plantilla',
         'incident-templates'       => 'Plantillas de incidente',
