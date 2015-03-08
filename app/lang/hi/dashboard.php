@@ -2,7 +2,7 @@
 
 return [
 
-    'dashboard' => 'Panel de Control',
+    'dashboard' => 'Ḍaiśabōrḍa',
 
     // Incidents
     'incidents' => [
